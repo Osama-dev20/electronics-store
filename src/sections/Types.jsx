@@ -1,9 +1,8 @@
-import React from 'react'
 
 function Types() {
   return (
     <div>
-      
+      Types
     </div>
   )
 }
